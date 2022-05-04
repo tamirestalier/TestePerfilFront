@@ -1,2 +1,2 @@
 # TestePerfilFront
-utilizando boostrap 
+utilizando HTML.CSS.JS 
