@@ -1,0 +1,21 @@
+
+body{
+   font: 20px Arial, sans-serif;
+}
+.navbar{
+    background-color: azure;
+
+}
+
+.margin{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+.etapas{
+    background-color: rgb(129, 121, 121);
+}
+
+.bg-footer{
+    background-color:rgb(125, 125, 125) ;
+    color: azure;
+}
